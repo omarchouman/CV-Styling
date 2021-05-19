@@ -130,6 +130,7 @@ header div {
 .contacts{
     display:flex;
     flex-direction: column;
+    height:100%;
 }
 .contact{
     display: grid;
